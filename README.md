@@ -16,9 +16,7 @@ An AI-powered chatbot that answers your questions based on the **Constitution of
 
 ## Setup Instructions
 
-### 1. Clone this repository
-
-```bash
+1. Clone this repository
 git clone https://github.com/manishabhatt7/Nepali-Constitution-Chatbot.git
 cd Nepali-Constitution-Chatbot
 
